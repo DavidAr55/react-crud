@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed on your machine:
 3. **Start the React development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     The React application will be served at `http://localhost:3000`.
